@@ -15,7 +15,7 @@ const Header = () => {
       </div>
       <div className="col-md-12 text-center border-bottom-new mt-4 border-dark">
         <h5>
-            DEMO - 1: US ACCENT (TEXT TO SPEECH - GOOGLE API)
+            DEMO - 1
         </h5>
       </div>
     </div>
